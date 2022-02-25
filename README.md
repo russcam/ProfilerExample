@@ -1,4 +1,4 @@
-﻿# Profiler example
+# Profiler example
 
 1. clone this repository
 2. clone https://github.com/elastic/apm-integration-testing
